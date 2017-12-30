@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       // { name: 'Github', href: 'https://github.com/kevinljohnson', newWindow: false},
-      { name: 'About Me'}
+      { name: 'About'}
     ],
 
     // Posts folder name

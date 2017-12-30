@@ -3,10 +3,10 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: "Kevin's Blog",
+    siteName: "The 5 Data Questions",
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: 'Who, What, When, Where, and Why?',
 
     // Email address
     siteEmail: 'kevinljohnsongit@gmail.com',
@@ -16,8 +16,8 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/kevinljohnson', newWindow: false},
-      { name: 'About'}
+      // { name: 'Github', href: 'https://github.com/kevinljohnson', newWindow: false},
+      { name: 'About Me'}
     ],
 
     // Posts folder name
